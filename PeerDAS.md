@@ -1,6 +1,6 @@
 Please feel free to correct me if I have any misconceptions on the subject that I attempt to address, as I’m still learning.
 
-
+------------------------------------------------
 
 Data Availability Sampling is one of the crucial upgrades for Ethereum's Surge Phase of the scaling roadmap, particularly for rollups, since we need to ensure transaction data is actually available without requiring every node to download everything. 
 
